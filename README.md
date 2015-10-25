@@ -1,7 +1,6 @@
 # block_stacking
-A dynamic programming implementation of the block stacking problem
 
-This is Problem Set 9, Question #4 for Lane Miles and Christina Tong. We have implemented a solution to the block stacking problem.
+This is Problem Set 9, Question #4 for Lane Miles and Christina Tong.
 
 FILES:
 
